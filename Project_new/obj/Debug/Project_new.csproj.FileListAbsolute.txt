@@ -1,0 +1,34 @@
+C:\Users\lenovo\source\repos\Project_new\Project_new\obj\Debug\Project_new.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Project_new\Project_new\obj\Debug\Interop.WMPLib.dll
+C:\Users\lenovo\source\repos\Project_new\Project_new\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\lenovo\source\repos\Project_new\Project_new\obj\Debug\Project_new.csproj.ResolveComReference.cache
+C:\Users\lenovo\source\repos\Project_new\Project_new\obj\Debug\Project_new.Form1.resources
+C:\Users\lenovo\source\repos\Project_new\Project_new\obj\Debug\Project_new.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Project_new\Project_new\obj\Debug\Project_new.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Project_new\Project_new\obj\Debug\Project_new.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Project_new\Project_new\bin\Debug\Project_new.exe.config
+C:\Users\lenovo\source\repos\Project_new\Project_new\bin\Debug\Project_new.exe
+C:\Users\lenovo\source\repos\Project_new\Project_new\bin\Debug\Project_new.pdb
+C:\Users\lenovo\source\repos\Project_new\Project_new\bin\Debug\Interop.WMPLib.dll
+C:\Users\lenovo\source\repos\Project_new\Project_new\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\lenovo\source\repos\Project_new\Project_new\obj\Debug\Project_new.exe
+C:\Users\lenovo\source\repos\Project_new\Project_new\obj\Debug\Project_new.pdb
+C:\Users\lenovo\source\repos\Project_new\Project_new\bin\Debug\taglib-sharp.dll
+C:\Users\lenovo\source\repos\Project_new\Project_new\obj\Debug\Project_new.csproj.CopyComplete
+C:\Users\unvmj\Downloads\Telegram Desktop\Project_new_Fedulov 2\Project_new\Project_new\bin\Debug\Project_new.exe.config
+C:\Users\unvmj\Downloads\Telegram Desktop\Project_new_Fedulov 2\Project_new\Project_new\bin\Debug\Project_new.exe
+C:\Users\unvmj\Downloads\Telegram Desktop\Project_new_Fedulov 2\Project_new\Project_new\bin\Debug\Project_new.pdb
+C:\Users\unvmj\Downloads\Telegram Desktop\Project_new_Fedulov 2\Project_new\Project_new\bin\Debug\Interop.WMPLib.dll
+C:\Users\unvmj\Downloads\Telegram Desktop\Project_new_Fedulov 2\Project_new\Project_new\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\unvmj\Downloads\Telegram Desktop\Project_new_Fedulov 2\Project_new\Project_new\obj\Debug\Project_new.csproj.AssemblyReference.cache
+C:\Users\unvmj\Downloads\Telegram Desktop\Project_new_Fedulov 2\Project_new\Project_new\obj\Debug\Project_new.csproj.SuggestedBindingRedirects.cache
+C:\Users\unvmj\Downloads\Telegram Desktop\Project_new_Fedulov 2\Project_new\Project_new\obj\Debug\Interop.WMPLib.dll
+C:\Users\unvmj\Downloads\Telegram Desktop\Project_new_Fedulov 2\Project_new\Project_new\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\unvmj\Downloads\Telegram Desktop\Project_new_Fedulov 2\Project_new\Project_new\obj\Debug\Project_new.csproj.ResolveComReference.cache
+C:\Users\unvmj\Downloads\Telegram Desktop\Project_new_Fedulov 2\Project_new\Project_new\obj\Debug\Project_new.Form1.resources
+C:\Users\unvmj\Downloads\Telegram Desktop\Project_new_Fedulov 2\Project_new\Project_new\obj\Debug\Project_new.Properties.Resources.resources
+C:\Users\unvmj\Downloads\Telegram Desktop\Project_new_Fedulov 2\Project_new\Project_new\obj\Debug\Project_new.csproj.GenerateResource.cache
+C:\Users\unvmj\Downloads\Telegram Desktop\Project_new_Fedulov 2\Project_new\Project_new\obj\Debug\Project_new.csproj.CoreCompileInputs.cache
+C:\Users\unvmj\Downloads\Telegram Desktop\Project_new_Fedulov 2\Project_new\Project_new\obj\Debug\Project_new.csproj.CopyComplete
+C:\Users\unvmj\Downloads\Telegram Desktop\Project_new_Fedulov 2\Project_new\Project_new\obj\Debug\Project_new.exe
+C:\Users\unvmj\Downloads\Telegram Desktop\Project_new_Fedulov 2\Project_new\Project_new\obj\Debug\Project_new.pdb
